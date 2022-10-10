@@ -9,3 +9,4 @@ PIL --> pip install pillow
 cv2 --> pip install opencv-python
 
 
+gui_code.py includes all the codes for graphical part. All the functions are in cartoon.py.
